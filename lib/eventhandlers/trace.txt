@@ -1,0 +1,350 @@
+<pre class='xdebug-var-dump' dir='ltr'>
+<small>/home/bitrix/ext_www/dev.arabella.ru/local/modules/dmbgeo.order_split/lib/eventhandlers/handlers.php:84:</small>
+<b>array</b> <i>(size=36)</i>
+  'SITE_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'s1'</font> <i>(length=2)</i>
+  'LID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'s1'</font> <i>(length=2)</i>
+  'PERSON_TYPE_ID' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>2</font>
+  'PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>43385</font>
+  'CURRENCY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'RUB'</font> <i>(length=3)</i>
+  'USER_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3'</font> <i>(length=1)</i>
+  'PAY_SYSTEM_ID' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>10</font>
+  'PRICE_DELIVERY' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>0</font>
+  'DELIVERY_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1'</font> <i>(length=1)</i>
+  'DISCOUNT_VALUE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>0</font>
+  'TAX_VALUE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>7230.75</font>
+  'TRACKING_NUMBER' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  'PAYED' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+  'CANCELED' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+  'STATUS_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+  'RESERVED' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+  'DEDUCTED' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+  'ALLOW_DELIVERY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+  'UPDATED_1C' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+  'DATE_STATUS' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'22.01.2020 18:04:12'</font> <i>(length=19)</i>
+  'EMP_STATUS_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3'</font> <i>(length=1)</i>
+  'XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'bx_5e28646c3c68f'</font> <i>(length=16)</i>
+  'SUM_PAID' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>0</font>
+  'USER_DESCRIPTION' <font color='#888a85'>=&gt;</font> <small>boolean</small> <font color='#75507b'>false</font>
+  'COMPANY_ID' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>0</font>
+  'STAT_GID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'BITRIX_SM.OTQuNDYuR0UuLi5zMQ=='</font> <i>(length=30)</i>
+  'ORDER_WEIGHT' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>0</font>
+  'BASKET_ITEMS' <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=5)</i>
+      0 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=49)</i>
+          'ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'81'</font> <i>(length=2)</i>
+          'LID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'s1'</font> <i>(length=2)</i>
+          'MODULE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'catalog'</font> <i>(length=7)</i>
+          'PRODUCT_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'12032'</font> <i>(length=5)</i>
+          'QUANTITY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'4.0000'</font> <i>(length=6)</i>
+          'WEIGHT' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0.00'</font> <i>(length=4)</i>
+          'DELAY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'CAN_BUY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Y'</font> <i>(length=1)</i>
+          'PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>967.5</font>
+          'CUSTOM_PRICE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'BASE_PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>1075</font>
+          'PRODUCT_PRICE_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'122134'</font> <i>(length=6)</i>
+          'PRICE_TYPE_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'7'</font> <i>(length=1)</i>
+          'CURRENCY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'RUB'</font> <i>(length=3)</i>
+          'BARCODE_MULTI' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RESERVED' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RESERVE_QUANTITY' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'NAME' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'100/101/5585/Z/1_GB Сорочка мужская короткий рукав (2/44)'</font> <i>(length=84)</i>
+          'CATALOG_XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'c4d01ef9-ef7d-4511-9605-2f5eb257a126#'</font> <i>(length=37)</i>
+          'VAT_RATE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0.2000'</font> <i>(length=6)</i>
+          'NOTES' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Цена'</font> <i>(length=8)</i>
+          'DISCOUNT_PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>107.5</font>
+          'PRODUCT_PROVIDER_CLASS' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'\Bitrix\Catalog\Product\CatalogProvider'</font> <i>(length=39)</i>
+          'CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'ORDER_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'PAY_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'CANCEL_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DIMENSIONS' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'a:3:{s:5:&quot;WIDTH&quot;;N;s:6:&quot;HEIGHT&quot;;N;s:6:&quot;LENGTH&quot;;N;}'</font> <i>(length=50)</i>
+          'TYPE' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'SET_PARENT_ID' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DETAIL_PAGE_URL' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'FUSER_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'6'</font> <i>(length=1)</i>
+          'MEASURE_CODE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'796'</font> <i>(length=3)</i>
+          'MEASURE_NAME' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'шт'</font> <i>(length=4)</i>
+          'ORDER_ID' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DATE_INSERT' <font color='#888a85'>=&gt;</font> 
+            <b>object</b>(<i>Bitrix\Main\Type\DateTime</i>)[<i>614</i>]
+              ...
+          'DATE_UPDATE' <font color='#888a85'>=&gt;</font> 
+            <b>object</b>(<i>Bitrix\Main\Type\DateTime</i>)[<i>612</i>]
+              ...
+          'PRODUCT_XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'9ff00106-6f0f-11e8-814f-c80aa904729b#f960db09-73cf-11e8-814f-c80aa904729b'</font> <i>(length=73)</i>
+          'SUBSCRIBE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RECOMMENDATION' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'VAT_INCLUDED' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Y'</font> <i>(length=1)</i>
+          'SORT' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'100'</font> <i>(length=3)</i>
+          'DATE_REFRESH' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_NAME' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_VALUE' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_COUPON' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'bx_5e28612e9451e'</font> <i>(length=16)</i>
+          'MARKING_CODE_GROUP' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'PROPS' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+      1 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=49)</i>
+          'ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'82'</font> <i>(length=2)</i>
+          'LID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'s1'</font> <i>(length=2)</i>
+          'MODULE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'catalog'</font> <i>(length=7)</i>
+          'PRODUCT_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'12141'</font> <i>(length=5)</i>
+          'QUANTITY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1.0000'</font> <i>(length=6)</i>
+          'WEIGHT' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0.00'</font> <i>(length=4)</i>
+          'DELAY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'CAN_BUY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Y'</font> <i>(length=1)</i>
+          'PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>7627.5</font>
+          'CUSTOM_PRICE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'BASE_PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>8475</font>
+          'PRODUCT_PRICE_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'125734'</font> <i>(length=6)</i>
+          'PRICE_TYPE_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'7'</font> <i>(length=1)</i>
+          'CURRENCY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'RUB'</font> <i>(length=3)</i>
+          'BARCODE_MULTI' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RESERVED' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RESERVE_QUANTITY' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'NAME' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'c125/057/33102/1 Сорочка мужская короткий рукав (в упаковке 12 шт) (12шт/ тип B)'</font> <i>(length=123)</i>
+          'CATALOG_XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'c4d01ef9-ef7d-4511-9605-2f5eb257a126#'</font> <i>(length=37)</i>
+          'VAT_RATE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0.2000'</font> <i>(length=6)</i>
+          'NOTES' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Цена'</font> <i>(length=8)</i>
+          'DISCOUNT_PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>847.5</font>
+          'PRODUCT_PROVIDER_CLASS' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'\Bitrix\Catalog\Product\CatalogProvider'</font> <i>(length=39)</i>
+          'CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'ORDER_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'PAY_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'CANCEL_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DIMENSIONS' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'a:3:{s:5:&quot;WIDTH&quot;;N;s:6:&quot;HEIGHT&quot;;N;s:6:&quot;LENGTH&quot;;N;}'</font> <i>(length=50)</i>
+          'TYPE' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'SET_PARENT_ID' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DETAIL_PAGE_URL' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'FUSER_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'6'</font> <i>(length=1)</i>
+          'MEASURE_CODE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'796'</font> <i>(length=3)</i>
+          'MEASURE_NAME' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'шт'</font> <i>(length=4)</i>
+          'ORDER_ID' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DATE_INSERT' <font color='#888a85'>=&gt;</font> 
+            <b>object</b>(<i>Bitrix\Main\Type\DateTime</i>)[<i>610</i>]
+              ...
+          'DATE_UPDATE' <font color='#888a85'>=&gt;</font> 
+            <b>object</b>(<i>Bitrix\Main\Type\DateTime</i>)[<i>608</i>]
+              ...
+          'PRODUCT_XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'231c868a-7adb-11e8-814f-c80aa904729b#c757ce9e-804f-11e8-814f-c80aa904729b'</font> <i>(length=73)</i>
+          'SUBSCRIBE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RECOMMENDATION' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'VAT_INCLUDED' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Y'</font> <i>(length=1)</i>
+          'SORT' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'200'</font> <i>(length=3)</i>
+          'DATE_REFRESH' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_NAME' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_VALUE' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_COUPON' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'bx_5e28614bcbc18'</font> <i>(length=16)</i>
+          'MARKING_CODE_GROUP' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'PROPS' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+      2 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=49)</i>
+          'ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'83'</font> <i>(length=2)</i>
+          'LID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'s1'</font> <i>(length=2)</i>
+          'MODULE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'catalog'</font> <i>(length=7)</i>
+          'PRODUCT_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'12142'</font> <i>(length=5)</i>
+          'QUANTITY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'1.0000'</font> <i>(length=6)</i>
+          'WEIGHT' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0.00'</font> <i>(length=4)</i>
+          'DELAY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'CAN_BUY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Y'</font> <i>(length=1)</i>
+          'PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>7627.5</font>
+          'CUSTOM_PRICE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'BASE_PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>8475</font>
+          'PRODUCT_PRICE_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'125749'</font> <i>(length=6)</i>
+          'PRICE_TYPE_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'7'</font> <i>(length=1)</i>
+          'CURRENCY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'RUB'</font> <i>(length=3)</i>
+          'BARCODE_MULTI' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RESERVED' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RESERVE_QUANTITY' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'NAME' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'c125/057/33102/1 Сорочка мужская короткий рукав (в упаковке 12 шт) (12шт/ тип E)'</font> <i>(length=123)</i>
+          'CATALOG_XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'c4d01ef9-ef7d-4511-9605-2f5eb257a126#'</font> <i>(length=37)</i>
+          'VAT_RATE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0.2000'</font> <i>(length=6)</i>
+          'NOTES' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Цена'</font> <i>(length=8)</i>
+          'DISCOUNT_PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>847.5</font>
+          'PRODUCT_PROVIDER_CLASS' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'\Bitrix\Catalog\Product\CatalogProvider'</font> <i>(length=39)</i>
+          'CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'ORDER_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'PAY_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'CANCEL_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DIMENSIONS' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'a:3:{s:5:&quot;WIDTH&quot;;N;s:6:&quot;HEIGHT&quot;;N;s:6:&quot;LENGTH&quot;;N;}'</font> <i>(length=50)</i>
+          'TYPE' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'SET_PARENT_ID' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DETAIL_PAGE_URL' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'FUSER_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'6'</font> <i>(length=1)</i>
+          'MEASURE_CODE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'796'</font> <i>(length=3)</i>
+          'MEASURE_NAME' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'шт'</font> <i>(length=4)</i>
+          'ORDER_ID' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DATE_INSERT' <font color='#888a85'>=&gt;</font> 
+            <b>object</b>(<i>Bitrix\Main\Type\DateTime</i>)[<i>606</i>]
+              ...
+          'DATE_UPDATE' <font color='#888a85'>=&gt;</font> 
+            <b>object</b>(<i>Bitrix\Main\Type\DateTime</i>)[<i>604</i>]
+              ...
+          'PRODUCT_XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'231c868a-7adb-11e8-814f-c80aa904729b#c757cea0-804f-11e8-814f-c80aa904729b'</font> <i>(length=73)</i>
+          'SUBSCRIBE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RECOMMENDATION' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'VAT_INCLUDED' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Y'</font> <i>(length=1)</i>
+          'SORT' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'300'</font> <i>(length=3)</i>
+          'DATE_REFRESH' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_NAME' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_VALUE' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_COUPON' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'bx_5e28614be9789'</font> <i>(length=16)</i>
+          'MARKING_CODE_GROUP' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'PROPS' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+      3 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=49)</i>
+          'ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'84'</font> <i>(length=2)</i>
+          'LID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'s1'</font> <i>(length=2)</i>
+          'MODULE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'catalog'</font> <i>(length=7)</i>
+          'PRODUCT_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'15104'</font> <i>(length=5)</i>
+          'QUANTITY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'3.0000'</font> <i>(length=6)</i>
+          'WEIGHT' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0.00'</font> <i>(length=4)</i>
+          'DELAY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'CAN_BUY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Y'</font> <i>(length=1)</i>
+          'PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>2695.5</font>
+          'CUSTOM_PRICE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'BASE_PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>2995</font>
+          'PRODUCT_PRICE_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'198514'</font> <i>(length=6)</i>
+          'PRICE_TYPE_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'7'</font> <i>(length=1)</i>
+          'CURRENCY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'RUB'</font> <i>(length=3)</i>
+          'BARCODE_MULTI' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RESERVED' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RESERVE_QUANTITY' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'NAME' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'G140-HL103 (многоцв./синий) Куртка мужcкая (2/50)'</font> <i>(length=73)</i>
+          'CATALOG_XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'c4d01ef9-ef7d-4511-9605-2f5eb257a126#'</font> <i>(length=37)</i>
+          'VAT_RATE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0.2000'</font> <i>(length=6)</i>
+          'NOTES' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Цена'</font> <i>(length=8)</i>
+          'DISCOUNT_PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>299.5</font>
+          'PRODUCT_PROVIDER_CLASS' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'\Bitrix\Catalog\Product\CatalogProvider'</font> <i>(length=39)</i>
+          'CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'ORDER_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'PAY_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'CANCEL_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DIMENSIONS' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'a:3:{s:5:&quot;WIDTH&quot;;N;s:6:&quot;HEIGHT&quot;;N;s:6:&quot;LENGTH&quot;;N;}'</font> <i>(length=50)</i>
+          'TYPE' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'SET_PARENT_ID' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DETAIL_PAGE_URL' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'FUSER_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'6'</font> <i>(length=1)</i>
+          'MEASURE_CODE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'796'</font> <i>(length=3)</i>
+          'MEASURE_NAME' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'шт'</font> <i>(length=4)</i>
+          'ORDER_ID' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DATE_INSERT' <font color='#888a85'>=&gt;</font> 
+            <b>object</b>(<i>Bitrix\Main\Type\DateTime</i>)[<i>602</i>]
+              ...
+          'DATE_UPDATE' <font color='#888a85'>=&gt;</font> 
+            <b>object</b>(<i>Bitrix\Main\Type\DateTime</i>)[<i>600</i>]
+              ...
+          'PRODUCT_XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'e82936d1-b85c-11e9-816b-c80aa904729b#e82936ee-b85c-11e9-816b-c80aa904729b'</font> <i>(length=73)</i>
+          'SUBSCRIBE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RECOMMENDATION' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'VAT_INCLUDED' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Y'</font> <i>(length=1)</i>
+          'SORT' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'400'</font> <i>(length=3)</i>
+          'DATE_REFRESH' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_NAME' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_VALUE' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_COUPON' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'bx_5e2861561d611'</font> <i>(length=16)</i>
+          'MARKING_CODE_GROUP' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'PROPS' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+      4 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=49)</i>
+          'ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'85'</font> <i>(length=2)</i>
+          'LID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'s1'</font> <i>(length=2)</i>
+          'MODULE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'catalog'</font> <i>(length=7)</i>
+          'PRODUCT_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'15107'</font> <i>(length=5)</i>
+          'QUANTITY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'6.0000'</font> <i>(length=6)</i>
+          'WEIGHT' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0.00'</font> <i>(length=4)</i>
+          'DELAY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'CAN_BUY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Y'</font> <i>(length=1)</i>
+          'PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>2695.5</font>
+          'CUSTOM_PRICE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'BASE_PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>2995</font>
+          'PRODUCT_PRICE_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'198559'</font> <i>(length=6)</i>
+          'PRICE_TYPE_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'7'</font> <i>(length=1)</i>
+          'CURRENCY' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'RUB'</font> <i>(length=3)</i>
+          'BARCODE_MULTI' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RESERVED' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RESERVE_QUANTITY' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'NAME' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'G140-HL103 (многоцв./синий) Куртка мужcкая (2/56)'</font> <i>(length=73)</i>
+          'CATALOG_XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'c4d01ef9-ef7d-4511-9605-2f5eb257a126#'</font> <i>(length=37)</i>
+          'VAT_RATE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0.2000'</font> <i>(length=6)</i>
+          'NOTES' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Цена'</font> <i>(length=8)</i>
+          'DISCOUNT_PRICE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>299.5</font>
+          'PRODUCT_PROVIDER_CLASS' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'\Bitrix\Catalog\Product\CatalogProvider'</font> <i>(length=39)</i>
+          'CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'ORDER_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'PAY_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'CANCEL_CALLBACK_FUNC' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DIMENSIONS' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'a:3:{s:5:&quot;WIDTH&quot;;N;s:6:&quot;HEIGHT&quot;;N;s:6:&quot;LENGTH&quot;;N;}'</font> <i>(length=50)</i>
+          'TYPE' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'SET_PARENT_ID' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DETAIL_PAGE_URL' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'FUSER_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'6'</font> <i>(length=1)</i>
+          'MEASURE_CODE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'796'</font> <i>(length=3)</i>
+          'MEASURE_NAME' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'шт'</font> <i>(length=4)</i>
+          'ORDER_ID' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DATE_INSERT' <font color='#888a85'>=&gt;</font> 
+            <b>object</b>(<i>Bitrix\Main\Type\DateTime</i>)[<i>598</i>]
+              ...
+          'DATE_UPDATE' <font color='#888a85'>=&gt;</font> 
+            <b>object</b>(<i>Bitrix\Main\Type\DateTime</i>)[<i>596</i>]
+              ...
+          'PRODUCT_XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'e82936d1-b85c-11e9-816b-c80aa904729b#e82936f7-b85c-11e9-816b-c80aa904729b'</font> <i>(length=73)</i>
+          'SUBSCRIBE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'N'</font> <i>(length=1)</i>
+          'RECOMMENDATION' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'VAT_INCLUDED' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Y'</font> <i>(length=1)</i>
+          'SORT' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'500'</font> <i>(length=3)</i>
+          'DATE_REFRESH' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_NAME' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_VALUE' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'DISCOUNT_COUPON' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'XML_ID' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'bx_5e28615640d02'</font> <i>(length=16)</i>
+          'MARKING_CODE_GROUP' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'PROPS' <font color='#888a85'>=&gt;</font> 
+            <b>array</b> <i>(size=2)</i>
+              ...
+  'ORDER_PROP' <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=10)</i>
+      20 <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>''</font> <i>(length=0)</i>
+      21 <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>''</font> <i>(length=0)</i>
+      22 <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>''</font> <i>(length=0)</i>
+      23 <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>''</font> <i>(length=0)</i>
+      8 <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'DMBGEO'</font> <i>(length=6)</i>
+      10 <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'12423534534534534534534'</font> <i>(length=23)</i>
+      11 <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>''</font> <i>(length=0)</i>
+      13 <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'dmbgeo@gmail.com'</font> <i>(length=16)</i>
+      17 <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Москва'</font> <i>(length=12)</i>
+      19 <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Москва'</font> <i>(length=12)</i>
+  'DISCOUNT_LIST' <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=0)</i>
+      <i><font color='#888a85'>empty</font></i>
+  'TAX_LIST' <font color='#888a85'>=&gt;</font> 
+    <b>array</b> <i>(size=1)</i>
+      0 <font color='#888a85'>=&gt;</font> 
+        <b>array</b> <i>(size=8)</i>
+          'NAME' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'НДС'</font> <i>(length=6)</i>
+          'IS_PERCENT' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Y'</font> <i>(length=1)</i>
+          'VALUE' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>20</font>
+          'VALUE_MONEY' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>7230.75</font>
+          'APPLY_ORDER' <font color='#888a85'>=&gt;</font> <small>int</small> <font color='#4e9a06'>100</font>
+          'IS_IN_PRICE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'Y'</font> <i>(length=1)</i>
+          'TAX_VAL' <font color='#888a85'>=&gt;</font> <font color='#3465a4'>null</font>
+          'CODE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'VAT'</font> <i>(length=3)</i>
+  'VAT_RATE' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'0.2000'</font> <i>(length=6)</i>
+  'VAT_SUM' <font color='#888a85'>=&gt;</font> <small>float</small> <font color='#f57900'>7230.75</font>
+  'PROFILE_NAME' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'DMBGEO'</font> <i>(length=6)</i>
+  'USER_EMAIL' <font color='#888a85'>=&gt;</font> <small>string</small> <font color='#cc0000'>'dmbgeo@gmail.com'</font> <i>(length=16)</i>
+  'ORDER_SPLIT' <font color='#888a85'>=&gt;</font> <small>boolean</small> <font color='#75507b'>true</font>
+</pre>
